@@ -1,0 +1,42 @@
+{
+  "name": "solid-meteor-data",
+  "description": "Tools for combining SolidJS and Meteor reactivity",
+  "version": "0.6.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "prepare": "tsc",
+    "test:tsc": "tsc --noEmit",
+    "test:jest": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:jest:auto": "node --experimental-vm-modules node_modules/jest/bin/jest.js -c jest.auto.config.js",
+    "test:jest:bench": "node --experimental-vm-modules node_modules/jest/bin/jest.js -c jest.bench.config.js",
+    "test": "npm run prepare && npm run test:jest && npm run test:jest:auto && npm run test:jest:bench"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edemaine/solid-meteor-data.git"
+  },
+  "author": {
+    "name": "Erik Demaine",
+    "email": "edemaine@mit.edu",
+    "url": "http://erikdemaine.org/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edemaine/solid-meteor-data/issues"
+  },
+  "homepage": "https://github.com/edemaine/solid-meteor-data#readme",
+  "devDependencies": {
+    "@edemaine/meteor-tracker": "1.1.0",
+    "@types/meteor": "2.0.1",
+    "benchmark": "2.1.4",
+    "jest": "27.4.7",
+    "microtime": "3.0.0",
+    "solid-jest": "0.2.0",
+    "solid-js": "1.3.2",
+    "typescript": "4.5.4"
+  },
+  "peerDependencies": {
+    "solid-js": ">=1.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+package-lock.json
+node_modules
+tsconfig.tsbuildinfo
+/auto*.js
+/create*.js
+index.js
