@@ -9,14 +9,14 @@ submission consists of four subprojects
    SSR (which requires different compiler settings on server
    and client, something not natively supported by Meteor),
    and JavaScript, TypeScript, and CoffeeScript languages.
-2. [`meteor-solid-data`](meteor-solid-data)
+2. [`solid-meteor-data`](solid-meteor-data)
    is an NPM library containing SolidJS helper functions
    (`create...`) for interacting with Meteor data, including integration of
    Meteor's Tracker reactive engine and fetching data from Meteor's Mongo
    collections.
-3. [`meteor-solid-demo`](meteor-solid-demo)
+3. [`solid-meteor-demo`](solid-meteor-demo)
    is a simple demo app illustrating use of
-   `meteor-solid` and `meteor-solid-data`.
+   `meteor-solid` and `solid-meteor-data`.
 4. [`meteor-solid-template-helper`](meteor-solid-template-helper)
    enables Meteor projects to transition gradually
    from the original Blaze rendering engine to SolidJS
@@ -28,7 +28,7 @@ submission consists of four subprojects
 
 ## Use
 
-I use `meteor-solid`, `meteor-solid-data`, and `meteor-solid-template-helper`
+I use `meteor-solid`, `solid-meteor-data`, and `solid-meteor-template-helper`
 in production in two major projects:
 
 * [Coauthor](https://github.com/edemaine/coauthor/)

@@ -2,7 +2,7 @@
   "name": "meteor-solid-hack",
   "version": "1.0.0",
   "description": "Support for SolidJS in Meteor: compiler, data helpers, demo, and Blaze transition helper template",
-  "info": "Consists of four subprojects: `meteor-solid` is a Meteor plugin to enable the SolidJS compiler, with support for HMR, SSR, and JavaScript, TypeScript, and CoffeeScript languages. `meteor-solid-data` is an NPM library containing SolidJS helper functions (`create...`) for interacting with Meteor data, including integration of Meteor's Tracker reactive engine and fetching data from Meteor's Mongo collections. `meteor-solid-demo` is a simple demo app illustrating use of the above two subprojects. `meteor-solid-template-helper` enables Meteor projects to transition gradually from the original Blaze rendering engine to SolidJS by allowing Solid components to be embedded within Blaze templates.",
+  "info": "Consists of four subprojects: `meteor-solid` is a Meteor plugin to enable the SolidJS compiler, with support for HMR, SSR, and JavaScript, TypeScript, and CoffeeScript languages. `solid-meteor-data` is an NPM library containing SolidJS helper functions (`create...`) for interacting with Meteor data, including integration of Meteor's Tracker reactive engine and fetching data from Meteor's Mongo collections. `solid-meteor-demo` is a simple demo app illustrating use of the above two subprojects. `meteor-solid-template-helper` enables Meteor projects to transition gradually from the original Blaze rendering engine to SolidJS by allowing Solid components to be embedded within Blaze templates.",
   "homepage": "https://github.com/edemaine/meteor-solid-hack#readme",
   "contributors": [
     {
