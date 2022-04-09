@@ -1,4 +1,4 @@
-# Meteor + SolidJS demo
+# Meteor + SolidJS demo [[main repo](https://github.com/edemaine/solid-meteor-demo)]
 
 This app is a simple example of using the
 [SolidJS reactive framework](https://www.solidjs.com/)

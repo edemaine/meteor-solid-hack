@@ -1,4 +1,4 @@
-# SolidJS Components in Blaze Templates
+# SolidJS Components in Blaze Templates [[main repo](https://github.com/edemaine/meteor-solid-template-helper)]
 
 This package makes it easy to use ([SolidJS](https://www.solidjs.com/)
 components within

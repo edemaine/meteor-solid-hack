@@ -1,4 +1,4 @@
-# SolidJS Compiler for Meteor
+# SolidJS Compiler for Meteor [[main repo](https://github.com/edemaine/meteor-solid)]
 
 This package enables full use of the [SolidJS](https://www.solidjs.com/)
 [JSX compiler](https://www.npmjs.com/package/babel-preset-solid),

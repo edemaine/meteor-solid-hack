@@ -1,4 +1,4 @@
-# solid-meteor-data
+# solid-meteor-data [[main repo](https://github.com/edemaine/solid-meteor-data)]
 
 This package provides helper functions for combining the reactive systems in
 [SolidJS](https://www.solidjs.com) and [Meteor](https://www.meteor.com),
