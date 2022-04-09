@@ -14,6 +14,14 @@ submission consists of four subprojects
    (`create...`) for interacting with Meteor data, including integration of
    Meteor's Tracker reactive engine and fetching data from Meteor's Mongo
    collections.
+
+   This is probably the most impressive bit of code.
+   It features automatic synchronization of Mongo Collection diffs
+   into a Solid signal storing an array of Solid Stores, with full
+   fine-grained reactivity support.
+   It can also enable fully automatic integration between SolidJS
+   and Meteor Tracker reactivity.
+
 3. [`solid-meteor-demo`](solid-meteor-demo)
    is a simple demo app illustrating use of
    `meteor-solid` and `solid-meteor-data`.
