@@ -1,0 +1,13 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.date {
+  font-size: small;
+  padding-left: 16px;
+}
+
+button, input[type="submit"] {
+  margin-left: 16px;
+}
