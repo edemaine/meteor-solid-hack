@@ -57,6 +57,6 @@ for easier review and to allow me to continue working on the `main` branch
 of the individual repositories without affecting this `main` branch.
 All original commits have been preserved via `git subtree`.
 
-I started this project on December 28, 2011, at the Solid meetup
+I started this project on December 28, 2021, at the Solid meetup
 where the Hackathon was first announced.
 Note that this is a few days before the official January 7, 2022, start date.
