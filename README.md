@@ -25,6 +25,9 @@ submission consists of four subprojects
 3. [`solid-meteor-demo`](solid-meteor-demo)
    is a simple demo app illustrating use of
    `meteor-solid` and `solid-meteor-data`.
+
+   Try out the [demo deployment](https://solid-meteor-demo.meteorapp.com/).
+
 4. [`meteor-solid-template-helper`](meteor-solid-template-helper)
    enables Meteor projects to transition gradually
    from the original Blaze rendering engine to SolidJS
